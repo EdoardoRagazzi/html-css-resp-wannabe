@@ -123,6 +123,9 @@ img {
     padding: 0 50px;
     background-color:#F2F2CD;
   }
+hr{
+    font-size: 5px;
+  }
 }
 @media screen and (max-width:480px){
   #steps .row{
@@ -130,5 +133,4 @@ img {
 
   }
 }
-
 
