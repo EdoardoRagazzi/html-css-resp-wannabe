@@ -101,7 +101,7 @@ img {
   }
 }
 /* BLOCCO */
-@media screen and (max-width:480px) {
+@media screen and (max-width:420px) {
 #why .row>.first,
 #why .row>.second,
 #why .row>.third {
@@ -112,13 +112,13 @@ img {
     background-color:#F2F2CD;
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-width:420px) {
   .row::after {
     display: none;
   }
 }
 /* ROW  */
-@media screen and (max-width:480px){
+@media screen and (max-width:420px){
   .row{
     padding: 0 50px;
     background-color:#F2F2CD;
@@ -127,7 +127,7 @@ hr{
     font-size: 5px;
   }
 }
-@media screen and (max-width:480px){
+@media screen and (max-width:420px){
   #steps .row{
     background-color: white;
 
