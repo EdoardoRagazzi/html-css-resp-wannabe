@@ -120,11 +120,11 @@ img {
 /* ROW  */
 @media screen and (max-width:420px){
   .row{
-    padding: 0 50px;
+    padding: 0 5%;
     background-color:#F2F2CD;
   }
 hr{
-    font-size: 5px;
+    font-size: 5%;
   }
 }
 @media screen and (max-width:420px){
@@ -133,4 +133,5 @@ hr{
 
   }
 }
+
 
